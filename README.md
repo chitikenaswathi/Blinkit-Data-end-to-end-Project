@@ -1,6 +1,6 @@
 # blinkit-sql-project1
 ## Project Overview
-This project presents a comprehensive for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs
+This project presents a comprehensive for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The key insights and opportunities for optimization using various KPIs
 ## Key Performance Indicators (KPIs)
 1.Total Sales: Overall revenue generated from all items sold ($1.20M)
 2.Average Sales: Average revenue per sale ($140)
