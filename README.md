@@ -1,5 +1,6 @@
-# blinkit-sql-project1
-## Tools used: Microsoft SQL Management Studio
+# Blinkit Data end-to-end Project
+## Tools used: Microsoft SQL Management Studio, Python, PowerBI
+            
 ## Project Overview
 This project presents a comprehensive for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The key insights and opportunities for optimization using various KPIs
 ## Key Performance Indicators (KPIs)
